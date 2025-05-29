@@ -1,6 +1,3 @@
-
-
-````markdown
 # SmartMod: LLM-Powered Q&A Moderation
 
 An advanced moderation system that classifies and enhances community Q&A content using large language models (LLMs), feature-rich classifiers, explainability tools, and automated rewriting.
