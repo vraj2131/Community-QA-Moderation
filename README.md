@@ -24,7 +24,6 @@ An advanced moderation system that classifies and enhances community Q&A content
 
 ## 📉 Project Flow
 
-```mermaid
 graph TD
 
 A[Raw Stack Overflow Dataset (60K)] --> B[Preprocessing: HTML Parsing, Cleaning]
@@ -56,7 +55,6 @@ S --> S2[Apply to answers, duplicates]
 S --> S3[Add UI/API for real-time use]
 
 S3 --> L[MIT License]
-````
 
 ---
 
